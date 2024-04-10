@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursbmatos9&layout=compact&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=contribs,issues)
 
 <!--
 **arthursbmatos9/arthursbmatos9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
